@@ -1,5 +1,5 @@
 {
   "name": "Dracula-ish Theme for HA",
   "filename": "draculaish.yaml",
-  "render_readme": "true"
+  "render_readme": true
 }
