@@ -1,8 +1,7 @@
 # draculaish-ha-theme
 Dracula-Inspired Theme for Home Assistant, Built on the Catppuccin template (and color names) and with a light mode inspired by Dracula.min for VSCode. 
 
-This theme is a work in progress! I plan on getting around to adding a color table to this readme and update the yaml file to include various color themes. The default at the moment is oriented around Dracula Purple. 
-Please feel free to make PR's / contributions for additional varieties. 
+This theme is a work in progress! I plan on getting around to adding a color table to this readme and update the yaml file to include various color themes. Currently there are two options - Draculaish, based on the purple colors; and draculaish-pink (I won't insult your intelligence). The theme file could do with some reflow to remove some unnecessarily repeated elements, which will be addressed in a future version. Please feel free to make PR's / contributions for additional varieties. 
 
 ## Installation
 ### With [HACS](https://hacs.xyz/)
